@@ -1,8 +1,10 @@
-## JWST Images
+# JWST Images
 
 Image Sources:
 
-https://stsci-opo.org
+- https://stsci-opo.org
+
+Note: High resolution images can be scrolled about through the viewer in github.
 
 ## Stephan's Quintet (NIRCam and MIRI Composite Image)
 
@@ -38,4 +40,7 @@ https://stsci-opo.org
 
 [(High Resolution)](./STScI-01G7NBXDHYYSVBP2M476PRGG3A/large.png)
 
-Additional Information
+## Additional Information
+
+- https://webbtelescope.org/news/first-images/gallery
+- https://www.nasa.gov/webbfirstimages
